@@ -23,6 +23,12 @@ In alphabetical order by brand
 > Reference headphones for control and monitoring purpose – 80 ohms (closed)
 
 
+## Cordial
+
+### CTM 3 FM-BK
+> 3m black XLR cable
+
+
 ## IKEA
 
 ### Rodulf
