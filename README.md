@@ -1,5 +1,52 @@
 # My studio equipment
 
+In alphabetical order by brand
+
+## Apple
+
+### Mac Mini
+> Apple Mac Mini (2020) 16GB/1TB Apple M1 chip
+
+### MacBook Pro
+> Apple MacBook Pro (2015) 8B/256GB Dual-Core Intel Core i5
+
+### Magic Keyboard
+> Space Gray with numeric pad
+
+### Magic Mouse 2
+> Space Gray
+
+
+## BeyerDynamic
+
+### DT 770 PRO
+> Reference headphones for control and monitoring purpose – 80 ohms (closed)
+
+
+## IKEA
+
+### Rodulf
+> Sit Stand Desk
+
+
+## Logitech
+
+### Brio
+> 4K webcam with HDR
+
+
+## Philips
+
+### Hue Play
+> Color bars White & Color (3x)
+
+
+## Reporterstore
+
+### FC2500 windshield
+> Light blue flocked windshield
+
+
 ## RØDE
 
 ### HJA-4
@@ -23,66 +70,33 @@
 ### RØDECaster Pro II
 > Integrated Audio Production Studio
 
-## BeyerDynamic
-
-### DT 770 PRO
-> Reference headphones for control and monitoring purpose – 80 ohms (closed)
-
-## Shure
-
-### SM7B
-> Vocal Microphone
-
-## Reporterstore
-
-### FC2500 windshield
-> Light blue flocked windshield
-
-## Sommer
-
-### Cable Stage Blue Line Vocal 5m
-> XLR cable
-
-## Logitech
-
-### Brio
-> 4K webcam with HDR
-
-## Apple
-
-### Mac Mini
-> Apple Mac Mini (2020) 16GB/1TB Apple M1 chip
-
-### MacBook Pro
-> Apple MacBook Pro (2015) 8B/256GB Dual-Core Intel Core i5
-
-### Magic Keyboard
-> Space Gray with numeric pad
-
-### Magic Mouse 2
-> Space Gray
-
-## Satechi
-
-### Stand Hub
-> Aluminum Mac Mini Stand Hub Silver
-
-## Wacom
-
-### Intuos Pro Medium
-> Creative Pen Tablet
 
 ## Samsung
 
 ### LC49RG90SSUXEN
 > 4K 49" Super Ultrawide (32:9)
 
-## Philips
 
-### Hue Play
-> Color bars White & Color (3x)
+## Satechi
 
-## IKEA
+### Stand Hub
+> Aluminum Mac Mini Stand Hub Silver
 
-### Rodulf
-> Sit Stand Desk
+
+## Sommer
+
+### Cable Stage Blue Line Vocal 5m
+> XLR cable
+
+
+## Shure
+
+### SM7B
+> Vocal Microphone
+
+
+## Wacom
+
+### Intuos Pro Medium
+> Creative Pen Tablet
+
