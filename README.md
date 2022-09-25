@@ -1,6 +1,8 @@
 # My studio equipment
 
-In alphabetical order by brand
+![ATypical Studio setup](ATypical Studio setup.png)
+
+Breadown in alphabetical order by brand
 
 ## Apple
 
