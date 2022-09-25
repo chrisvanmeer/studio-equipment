@@ -1,6 +1,6 @@
 # My studio equipment
 
-![ATypical Studio setup](ATypical Studio setup.png)
+![ATypical Studio Setup](https://github.com/chrisvanmeer/studio-equipment/blob/main/ATypical%20Studio%20setup.png)
 
 Breadown in alphabetical order by brand
 
