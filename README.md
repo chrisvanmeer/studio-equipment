@@ -2,7 +2,7 @@
 
 ![ATypical Studio Setup](https://github.com/chrisvanmeer/studio-equipment/blob/main/ATypical%20Studio%20setup.png)
 
-Breadown in alphabetical order by brand
+Breakdown in alphabetical order by brand
 
 ## Apple
 
